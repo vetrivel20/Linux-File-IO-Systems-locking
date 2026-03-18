@@ -1,4 +1,3 @@
-//C program that illustrates files locking goes here
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>

@@ -73,7 +73,8 @@ int main(int argc, char *argv[]) {
 }
 
 ```
-
+## OUTPUT
+![alt text](image-2.png)
 
 
 
@@ -142,13 +143,14 @@ int main(int argc, char *argv[]) {
     close(fd);
     return 0;
 }
+
 ```
 
 
 ## OUTPUT
 
-![alt text](01.png)
-
+![alt text](image.png)
+![alt text](image-1.png)
 
 
 # RESULT:
